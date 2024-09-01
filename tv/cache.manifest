@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# Version 1.0
+
+CACHE:
+index.html
+StarSports1Tamil.html
+Suntv.html
+SP1.html
+DiscoveryKids.html
+styles.css
+script.js
+https://content.jwplatform.com/libraries/Z79JsmAO.js
+
+NETWORK:
+*
+
+
+FALLBACK:
+ StarSports1Tamil.html
+Suntv.html
+SP1.html
+Discoverykids.html

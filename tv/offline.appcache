@@ -1,0 +1,15 @@
+CACHE MANIFEST
+# Version 1.0.0
+
+CACHE:
+index.html
+style.css
+
+NETWORK:
+*
+
+FALLBACK:
+/ /index.html
+/ /StarSports1tamil.html
+/ /Discoverykids.html
+/ /SP1.html
