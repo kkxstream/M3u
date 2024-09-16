@@ -1,0 +1,192 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Aus Vs England
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.google.com/linear/hls/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Aus Vs England
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/107769_english_hls_5273adfreeta-no/index.m3u8
+
+#EXTINF:-1 tvg-id="Premier.Sports.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png", Match1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"252a671825ba31ec8433f978c32ccf6d": "ee560759ecc8d2274df2e63fcef56915"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://a2uy.short.gy/SUI-V-ESP/TG@ZubayerOp_Official.m3u8
+
+#EXTINF:-1 tvg-id="Premier.Sports.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",Match2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"252a671825ba31ec8433f978c32ccf6d": "ee560759ecc8d2274df2e63fcef56915"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
+
+#EXTINF:-1 tvg-id="Premier.Sports.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",Match 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"252a671825ba31ec8433f978c32ccf6d": "ee560759ecc8d2274df2e63fcef56915"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
+
+#EXTINF:-1 tvg-id="Premier.Sports.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",Peacock TV USN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"252a671825ba31ec8433f978c32ccf6d": "ee560759ecc8d2274df2e63fcef56915"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://assets-prd.ignimgs.com/2022/09/22/service-peacock-1663819589220.jpg?width=300&auto=webp",Peacock TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"002046c9a49b9ab1cdb6616bec5d26c3": "d2f92f6b7edc9a1a05d393ba0c20ef9e"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",Peacock TV CNBC
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0045a118e231f1326bcdb45350b1ceaa": "8c13afbfa54ea37a368b8b859021f6e3"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/alzVFEm.png",Dazn 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"44dd9cd370b08a868ead115fe84ecfde": "bff19ab0a51cf14e848389b152913fd0"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/m2YgWg7.png",Dazn 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0eab5a3f3e3b4ba5d42d40ca30d17571": "f3f061ded9b70e8160590d5802ecda6d"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png",Dazn laliga
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"43d1c3b25207ff38b22ccfe17d302367": "7b1f85f6e81059473b114c16a25c829a"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="Premier Sport 1" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-1.png" group-title="SPORT", Premier Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/premier1uk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drmlive.in/tataplay/tpck.php?id=246
+#EXTVLCOPT:http-user-agent=third-party
+https://jerielnino.vercel.app/246.mpd|X-Forwarded-For=59.178.72.184
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/5En7pOI.png",Star Sports 2 HD (Temp)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"2a9ea545a4615e758a880305fb03fb3c": "77dd975aaa8c21c34e9cfbf433af5c41"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/2Nofz51.png",Star Sports Select 1 HD (Temp)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"fa56c8a659c5561b962f45143f4776bc": "f23e365b7fa71ef236f1cf09fb1f0628"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/thecricsters.mpd
+
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/JA3nvTM.png",Star Sports Select 2 HD (Temp)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"11b722e49e405ebbaffa397f712111be": "a7b9c6b4376d850d452f1802402fb2ba"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+
+#EXTINF:-1 group-title="Live Channels" tvg-logo="https://i.imgur.com/hWo7Ba4.png", SONY SPORTS TEN 1 HD
+https://la.drmlive.au/tp/sliv.php?id=ten1hd
+
+#EXTINF:-1 group-title="Live Channels" tvg-logo="https://i.imgur.com/W96KVqu.png", SONY SPORTS TEN 2 HD
+https://la.drmlive.au/tp/sliv.php?id=ten2hd
+
+#EXTINF:-1 group-title="Live Channels" tvg-logo="https://i.imgur.com/vG19HxD.png", SONY SPORTS TEN 3 HD
+https://la.drmlive.au/tp/sliv.php?id=ten3hd
+
+#EXTINF:-1 group-title="Live Channels" tvg-logo="https://i.imgur.com/40BbQUd.png", SONY SPORTS TEN 5 HD
+https://la.drmlive.au/tp/sliv.php?id=ten5hd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.ibb.co/NmVCXhz/IMG-20230610-135938.jpg",Sports 18 - 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d86185f50f5952589c280167ee8e45c5": "6bff81346539e4bcc9abdb351f1c855e"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/miyMp5p.png",Astro Cricket HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"03c2e0af2f8159f9f0ce9b5dbc865f10": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/irWZ3TG.png",Astro Supersport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"79f4028730acca9ab8b00f26158ddb10": "91febe843c08c7cc523efd827292e40e"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/irWZ3TG.png",Willow HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"475d7932b5f352bb92016b75b60c58fa": "ea37faa137ae8f644105c4fcc189a35f"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/irWZ3TG.png",LPL
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/103789_english_hls_4502adfreeta-no/index.m3u8
+
+#EXTINF:-1 group-title="Live Sports", Home Cam
+rtsp://jeri7758:Jeri7758@192.168.20.4:554/stream1
+
+#EXTINF:-1 group-title="Live Channels", TNT 1
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23564.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 2
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23565.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 3
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/148090.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 4
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/255259.ts
+
+
+#EXTINF:-1 group-title="Live Channels", Asianet Movies HD
+http://livetvbox.live:8080/47djShaqib-_-28EDJ9edn2894dcn928SJ10SZ_29_-_19@zsjwdj2389dn1/dkj28sj@83jSI-__-__sjwej38ds@8edjx39djKX29dh2ixwj2849dsh28dj24/177842
+
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Xtra1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78&key
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://mpd-v1.bigcric.site/api/78.mpd
