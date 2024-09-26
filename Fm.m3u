@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="Tamil FM",AIR Coimbatore FM Rainbow 103.96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Kodaikanal FM 100.5 96bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Tiruchirappalli FM 102.1 , 96bit
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Chennai FM Gold 102.3 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",FM Rainbow Chennai FM 101.4 48bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Chennai VBS 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Tamil Radio 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Karaikal 100.3 56bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Madurai PC AM 1269 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Madurai FM 103.3 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Tirunelveli AM 1197 , 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Tirunelveli Rainbow 102.6 , 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Tiruchirappalli AM 936 , 56bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Dharmapuri FM 102.5 , 56bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",AIR Nagercoil Kumari FM 101.0 , 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8 
+#EXTINF:-1 group-title="Tamil FM",AIR Puducherry PC AM 1215 , 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8 
+#EXTINF:-1 group-title="Tamil FM",AIR Puducherry Rainbow 102.8 , 96bit 
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8
+#EXTINF:-1 group-title="Tamil FM",Sooriyan FM SRILANKA 
+https://radio.lotustechnologieslk.net:8006/;stream.mp3
+#EXTINF:-1 group-title="Tamil FM",Tamil FM 89.4
+http://31.14.40.150:9000/
+#EXTINF:-1 group-title="Tamil FM",Radio City 91.1
+http://51.222.87.239:7200/2
+#EXTINF:-1 group-title="Tamil FM",Big FM 92.7
+http://51.222.87.239:7200/3
+#EXTINF:-1 group-title="Tamil FM",Suriyan FM 93.5
+http://51.222.85.66:7200/1
+#EXTINF:-1 group-title="Tamil FM",Radio One 94.3
+http://51.161.10.100:7200/1
+#EXTINF:-1 group-title="Tamil FM",Radio Mirchi 98.3
+http://51.222.87.239:7200/1
+#EXTINF:-1 group-title="Tamil FM",FM Gold 100.1
+http://51.161.10.100:7200/4
+#EXTINF:-1 group-title="Tamil FM",FM Rainbow 101.4
+http://51.161.10.100:7200/2
+#EXTINF:-1 group-title="Tamil FM",Hello FM 106.4
+http://51.222.26.111:7200/1
+#EXTINF:-1 group-title="Tamil FM",Raja Radio
+http://live.tamilkuyilradio.com:8026/stream
+#EXTINF:-1 group-title="Tamil FM",News 7
+http://51.161.10.100:7200/6
+#EXTINF:-1 group-title="Tamil FM",Polimer
+http://51.161.10.100:7200/5
+#EXTINF:-1 group-title="Tamil FM",Mirchi FM
+https://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8
+#EXTINF:-1 group-title="Tamil FM",Hello FM
+https://livessl.rcast.net/stream/66462.mp3
+#EXTINF:-1 group-title="Tamil FM",Panbalai Tamil FM
+http://212.83.138.48:8251/stream.mp3
+#EXTINF:-1 group-title="Tamil FM",Covai Tamil FM
+http://node-32.zeno.fm/kzd2e3tx24zuv
+#EXTINF:-1 group-title="Tamil FM",Kodai FM
+http://node-30.zeno.fm/urvp16bqnd0uv
+#EXTINF:-1 group-title="Tamil FM",Ilayaraja Lite Radio
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b2637fa2c96/60b2637fa2c96.ts
+#EXTINF:-1 group-title="Tamil FM",SBP RADIO Link 1
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b266de4cf71/60b266de4cf71.ts
+#EXTINF:-1 group-title="Tamil FM",SBP RADIO Link 2
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b2670ccd6eb/60b2670ccd6eb.ts
+#EXTINF:-1 group-title="Tamil FM",YSR Radio
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b2671df22f0/60b2671df22f0.ts
+#EXTINF:-1 group-title="Tamil FM",Puthu Padal
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b26747b79f1/60b26747b79f1.ts
+#EXTINF:-1 group-title="Tamil FM",Deva Radio
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b2679b55484/60b2679b55484.ts
+#EXTINF:-1 group-title="Tamil FM",Mohan Radio
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b267d50fe11/60b267d50fe11.ts
+#EXTINF:-1 group-title="Tamil FM",Isaigani Radio
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b267fcebf44/60b267fcebf44.ts
+#EXTINF:-1 group-title="Tamil FM",Janaki Radio
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b2682b56c7d/60b2682b56c7d.ts
+#EXTINF:-1 group-title="Tamil FM",Chitra Radio
+https://garuda-cdn.xyz/live/60c355026a422/12345/60b2684ebf99f/60b2684ebf99f.ts
