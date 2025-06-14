@@ -1,0 +1,106 @@
+#EXTINF:-1  tvg-name="Kannur Vision" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240405_0001066399257992313401397.png",Kannur Vision
+http://cloud.logichost.in:1935/kannurvision/live/playlist.m3u8
+#EXTINF:-1  tvg-name="Harvest Tv" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_1106372254204168838795351.png",Harvest Tv
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1  tvg-name="Grace Family Tv" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17109128857949109627808017284897.png",Grace Family Tv
+https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8
+#EXTINF:-1  tvg-name="Gosree Vision" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_1100508078035424851558830.png",Gosree Vision
+https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
+#EXTINF:-1  tvg-name="Goodness Tv" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_1038498976428502267004572.png",Goodness Tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710932807/ei/5276ZfShELris8IP6OmZiAE/ip/54.254.162.138/id/fUDGCNd82Eo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4I-sqFzNAzIAztR1CvbfONiqrJ48ll6vKblhixc2cw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMJk7BQ72vUddVXyL3dq3pfqBId6ywlbhJDB0BL3zEa-AiEAhg3tmkMRWyGgntbiTH_FYFpPIUe4uUsMR0k9JYG34vo%3D/file/index.m3u8
+#EXTINF:-1  tvg-name="Enlight News" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_1034141590295512268566661.png",Enlight News
+https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Eagle One News" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1037498711147663468579611.png",Eagle One News
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="CD News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1033168423976183456968190.png",CD News
+https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Kairali" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1045057888923305733558977.png",Kairali
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Kairali We" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1029476588984848689151327.png",Kairali We
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="C Malayalam Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_101202759889422126360431.png",C Malayalam Tv
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Amrita Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_0809416443147025764010656.png",Amrita Tv
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+#EXTINF:-1  tvg-name="MCV Channel" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2335117797062772357392811.png",MCV Channel
+http://cloud.logichost.in:1935/live/mcvlive/chunklist_w141497558.m3u8 
+#EXTINF:-1  tvg-name="Citi News" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2325294121001855085015262.png",Citi News
+http://cloud.logichost.in:1935/live/citi/chunklist_w2041544842.m3u8
+#EXTINF:-1  tvg-name="Malabar Plus" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2320177630118878637687951.png",Malabar Plus
+http://cloud.logichost.in:1935/live/mplus/chunklist_w1870583417.m3u8 
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Safari Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_0750175031459421424700756.png",Safari Tv
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Real News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/imagecontent-73022-l8gzppv4-m12732857981546151808.jpg",Real News
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Vision Kerala" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2204194233944829560704627.png",Vision Kerala
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="One Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_1955404154184369147104986.png",One Tv
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Pulari Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_1716017127142748818420809.png",Pulari Tv
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Janam Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17106753776468837564301260684847.png",Janam Tv
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name=""Mazhavil Manorama tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_1709117122270603759157883.png",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Real News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_211941513071778353443408.png",Real News
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="NV Tv (Asianet)" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0946386441479403462051080.png",NV Tv (Asianet)
+http://ipcloud.live:8080/nvtv/livetvstream.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Nattuvartha Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_1045057661585982202788649.png",Nattuvartha Tv
+http://ipcloud.live:8080/nattuvartha/nvtvstream.m3u8
+#EXTINF:-1  tvg-name="Malabar News" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2300272855737498506803297.png",Malabar News
+http://cloud.logichost.in:1935/live/malabarnews/chunklist_w1541546301.m3u8
+#EXTINF:-1  tvg-name="Raj News Malayalam" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_09045662102920372693745.png",Raj News Malayalam
+http://59.103.181.178:8000/play/a06p/index.m3u8
+#EXTINF:-1  tvg-name="Raj Musix" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240323_0920166109988354830650081.png",Raj Musix
+http://bda1bc05.cbilant.com/iptv/KGNQF88SNNYPWZ/6700/index.m3u8
+#EXTINF:-1  tvg-name="Sky Music" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240321_0630354354644313045762268.png",Sky Music
+http://ipcloud.live:8080/nvision/skymusic.m3u8
+#EXTINF:-1  tvg-name="N vision" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_2329382361801632554774391.png",N vision 
+http://ipcloud.live:8080/nvision/nvisionhd.m3u8
+#EXTINF:-1  tvg-name="Venad News" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240321_0632594835657134594023375.png",Venad News
+https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+#EXTINF:-1  tvg-name="24 News" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_1844501610286820552816204.png",24 News
+https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
+#EXTINF:-1  tvg-name="VBC News" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_1130383294310883535190253.png",VBC News
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1  tvg-name="VCV Tv" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_1128264154964772820349882.png",VCV Tv
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1  tvg-name="KCL TV" group-title="Malayalam Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_1120118261465872580464769.png",KCL TV
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Anand Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_0806294197477933140309531.png",Anand Tv
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Divine Tv USA" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_0803534821128238291409444.png",Divine Tv USA
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Kite Victers" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_0800334273623900095575522.png",Kite Victers
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv2/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam Local Channel" tvg-name="Magna Vision" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_0754044582506765267007205.png",Magna Vision
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/H6TpqF-9GwtRkrgYlAN38vrxDAkR4uV_uspw9FmB5YQLVNvHPbAtGlbXx7ycSzL9e5wK=w240-h480" group-title="Malayalam Local Channel", Janasruthi
+https://live.skystream.in/live/janatvm/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aBew5B-0cj9MG3EEPJy8mUydKUOKtppN2pAGqzKKOKvnoVD9WJob4QXdy92wwBp4FYfR=w240-h480-rw" group-title="Malayalam Local Channel", South Vision
+https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM=w240-h480-rw" group-title="Malayalam Local Channel", City Channel
+https://live.skystream.in/live/citytv2924/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local Channel", City Vision
+https://live.skystream.in/live/citykannurcity/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SaZobDSgO9rmgr80t2Z68AwMy6GKz1-E3Hf4O5tnt3hjUeu4gvs8V7xiav-B3-OAFbc=w240-h480-rw" group-title="Malayalam Local Channel", N Media Channel
+https://live.skystream.in/live/newmedia2924/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9_fEF1-cuwUV-xLjZ0sVxit5Ez_8vu1_8ZvLJSKbxg7i9vn09IvHHk5lxclopaqvxg=w240-h480-rw" group-title="Malayalam Local Channel", Satview
+https://live.skystream.in/live/satviewpalakkad/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rC6gal1lKuo4rNDoCfqZAcDB0R07i_ffdeBHsu-xRzYbUeTHwM_uN98PzQLtrQ1oGJ8=w240-h480-rw" group-title="Malayalam Local Channel", Drisya News
+https://live.skystream.in/live/DrisyaPala2924/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jID-JmVFecTZJj873tSf1UHthFxTzZj2dcy3CNp5wniaU_4rl7Z0AQ13bMLzmp-yxo14=w240-h480-rw" group-title="Malayalam Local Channel", Network Payyanur
+https://live.skystream.in/live/networkpayyanur/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local Channel", New Vision
+https://live.skystream.in/live/newvision2924/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CiTs3UFetQws93sS4jyx_kHq22Nfv2WE6piT5uRHyFuhWAJNvQzFpkFQBpSUeGpEcg=w240-h480-rw" group-title="Malayalam Local Channel", Drisya
+https://live.skystream.in/live/drishyakarunagapally/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malayalam Local Channel", Drishya
+https://live.skystream.in/live/drishya2924/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7jMUkEe42OGamvXJH0BnZPG0XnXu18YmRvdi3IwtUAaC-AfpFOANT7xuUa6moojnmcI=w240-h480-rw" group-title="Malayalam Local Channel", KCV
+https://live.skystream.in/live/kcvottapalam/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YLU9H8Q58na4mcnen4J5OfM4_bVxkiZHNFBJOvnUiU2VaD_bL73kFdfxqLugub_Mn7Ki=w240-h480-rw" group-title="Malayalam Local Channel", Sonicvision HD
+https://live.skystream.in/live/sonicktrkra/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8VqRa5H_H8F0v3MOGCfiR1qSg1aPShY533ZzY9g86rcT89IDpf46YMC12_VvZ1GJA=w240-h480-rw" group-title="Malayalam Local Channel", Drishya TV
+https://live.skystream.in/live/drishya5060/index.m3u8
